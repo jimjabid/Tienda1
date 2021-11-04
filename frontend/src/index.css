@@ -1,0 +1,50 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+h2 {
+  font-size: 1.2rem;
+  padding: 0.5rem 0;
+}
+.rating span {
+  margin: 0.2rem;
+}
+
+/* Estilos Pagina Quienes Somos */
+
+.team4 h1,
+.team4 h2,
+.team4 h3,
+.team4 h4,
+.team4 h5,
+.team4 h6 {
+  color: #3e4555;
+}
+
+.team4 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+  font-size: 13px;
+}
+
+a {
+  color: #8d97ad;
+  padding-right: 15px;
+  -webkit-transition: 0.1s ease-in;
+  -o-transition: 0.1s ease-in;
+  transition: 0.1s ease-in;
+}
+
+a:hover {
+  -webkit-transform: translate3d(0px, -5px, 0px);
+  transform: translate3d(0px, -5px, 0px);
+  color: #316ce8;
+}
